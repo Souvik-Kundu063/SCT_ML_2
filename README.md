@@ -42,3 +42,53 @@ In this project, I used the **K-Means clustering algorithm** to segment customer
 
 ## 📂 Project Structure
 
+
+---
+
+## ⚙️ Steps Performed
+
+1. **Data Preprocessing**
+   - Loaded the dataset into Colab
+   - Checked for missing values
+   - Selected Age, Annual Income, and Spending Score for clustering
+
+2. **Exploratory Data Analysis (EDA)**
+   - Visualized data distributions
+   - Explored relationships among features
+
+3. **K-Means Clustering**
+   - Applied the Elbow Method to find optimal clusters
+   - Ran K-Means and assigned cluster labels
+
+4. **Visualization**
+   - Scatter plots to visualize clusters
+   - Segmented groups clearly displayed  
+
+---
+
+## 📈 Results
+
+- Customers were divided into **5 clear segments** based on their purchasing behavior.
+- These segments help in designing **targeted marketing campaigns**.
+
+---
+
+## 🚀 Run the Project
+
+Click below to open the notebook directly in **Google Colab**:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Souvik-Kundu063/SCT_ML_2/blob/main/K_means_clustering.ipynb)
+
+---
+
+## 🏷️ Acknowledgement
+
+- Dataset Source: [Kaggle Mall Customer Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial)  
+- Internship Task by **SkillCraft Technology**
+
+---
+
+## ✨ Author
+
+- **Souvik Kundu**
+- GitHub: [Souvik-Kundu063](https://github.com/Souvik-Kundu063)
