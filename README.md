@@ -90,4 +90,4 @@ Click below to open the notebook directly in **Google Colab**:
 ## ✨ Author
 
 - **Souvik Kundu**
-- GitHub: [Souvik-Kundu063](https://github.com/Souvik-Kundu063)
+- GitHub: [Souvik-kundu-off](https://github.com/Souvik-kundu-off)
