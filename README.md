@@ -68,8 +68,7 @@ In this project, I used the **K-Means clustering algorithm** to segment customer
 
 ## 📈 Results
 
-- Customers were divided into **5 clear segments** based on their purchasing behavior.
-- These segments help in designing **targeted marketing campaigns**.
+- Customers were divided into **n number of clear segments** based on their purchasing behavior.
 
 ---
 
